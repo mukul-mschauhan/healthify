@@ -1,5 +1,8 @@
 # 👨‍⚕️ Healthcare Advisor ⚕️
 
+<img width="1432" alt="Screenshot 2024-12-13 at 11 04 56 AM" src="https://github.com/user-attachments/assets/6b42826d-7271-4b42-8769-8c670895209a" />
+
+
 Welcome to the **Healthcare Advisor**, an AI-powered medical assistant built with **Google Generative AI Gemini Model** and **Streamlit**. This application provides general health-related information, answers questions on diseases and fitness, and includes a BMI calculator for quick health assessments.
 
 ---
