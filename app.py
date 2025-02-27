@@ -41,7 +41,7 @@ if bmi:
 
 # Generative AI Application
 def get_response(text_input):
-    model = genai.GenerativeModel("gemini-pro")
+    model = genai.GenerativeModel("gemini-1.5-pro")
     if text_input!="":
         myprompt = '''I want you to acts as a Dietician and Healthcare Expert
 and answer the questions on Health & Related Topics Only. If the User is asking information/
